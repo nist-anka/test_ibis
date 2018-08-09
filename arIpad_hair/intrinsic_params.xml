@@ -1,0 +1,9 @@
+<!DOCTYPE configML>
+<configuration>
+ <IntrinsicParams>
+  <Center value="5.0000000000000000e-1 5.0000000000000000e-1 "/>
+  <Focal value="9.4001647498677010e-1 1.2517112242085604e+0 "/>
+  <DistortionK1 value="0.0000000000000000e+0"/>
+  <CalibrationReprojectionError value="4.1916900632250020e-1"/>
+ </IntrinsicParams>
+</configuration>

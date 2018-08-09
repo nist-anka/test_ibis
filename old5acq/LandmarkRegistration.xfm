@@ -1,0 +1,8 @@
+MNI Transform File
+% Single linear transformation.
+
+Transform_Type = Linear;
+Linear_Transform =
+-0.0385476 -0.0224484 0.999005 12.9101
+0.997663 0.0555781 0.0397447 -205.347
+-0.056415 0.998202 0.0202535 -77.5442;
